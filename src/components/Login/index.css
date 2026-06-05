@@ -1,0 +1,67 @@
+
+.con {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+.logoCon {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.logo {
+  width: 50%;
+  margin-bottom: 30px;
+  align-self: center;
+}
+
+form {
+  background-color: #202020;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  width: 30%;
+}
+
+.loginLab {
+  color: #ffffff;
+  font-size: 13px;
+  font-family: 'Roboto';
+}
+
+.loginInp {
+  width: 100%;
+  border: 1px solid #64748b;
+  background-color: transparent;
+  outline: none;
+  padding: 11px;
+  margin-bottom: 30px;
+  font-family: 'Roboto';
+  margin-top: 8px;
+  color: aliceblue;
+}
+.loginBtn {
+  border: none;
+  background-color: #4f46e5;
+  color: #ffffff;
+  font-family: 'Roboto';
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+
+@media screen and (max-width: 768px) {
+  form {
+    width: 90%;
+  }
+}

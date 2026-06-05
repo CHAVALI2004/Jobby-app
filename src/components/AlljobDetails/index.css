@@ -1,0 +1,22 @@
+.failCon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure {
+  width: 50%;
+}
+
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.jobUl {
+  padding-left: 0;
+  margin: 0;
+}

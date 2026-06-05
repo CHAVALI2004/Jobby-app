@@ -1,0 +1,15 @@
+.checkList {
+  display: flex;
+  flex-direction: row;
+  margin: 15px;
+}
+
+.checkbox {
+  margin-right: 10px;
+}
+
+.checkLabel {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+}

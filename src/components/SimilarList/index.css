@@ -1,0 +1,23 @@
+.itemCon3 {
+  background-color: #272727;
+  border: none;
+  border-radius: 8px;
+  padding: 25px;
+  margin: 15px;
+  width: 30%;
+}
+
+.lifePara1 {
+  color: #f1f5f9;
+  font-size: 18px;
+  font-family: 'Roboto';
+  line-height: 30px;
+  padding-top: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .itemCon3 {
+    width: 100%;
+    margin-bottom: 8px;
+  }
+}

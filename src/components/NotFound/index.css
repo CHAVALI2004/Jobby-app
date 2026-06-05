@@ -1,0 +1,26 @@
+.notCon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  min-height: 100vh;
+}
+
+.not {
+  width: 25%;
+}
+
+.head {
+  color: #ffffff;
+  font-size: 22px;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.para {
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+  padding-top: 10px;
+}
