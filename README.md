@@ -48,3 +48,19 @@ Password: raja@2021
 
 
 📷 **Screenshots**
+
+### Login Page
+
+![Login Page](login.png)
+
+### Home Page
+
+![Home Page](home.png)
+
+### Jobs Page
+
+![Jobs Page](jobs.png)
+
+**Live Link**
+
+https://snrjobbyapp.ccbp.tech/
