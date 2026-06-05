@@ -1,9 +1,11 @@
 **Jobby App**
+
 📌 **Project Overview**
 
 Jobby App is a job search portal built using React.js that allows users to search and filter jobs based on employment type, salary range, and keywords. The application includes JWT authentication, protected routes, job details pages, and responsive design.
 
 🚀 **Features**
+
 User Authentication using JWT
 Protected Routes
 Search Jobs by Keyword
@@ -15,6 +17,7 @@ Responsive UI
 Loading, Success, and Failure States
 
 🛠️ **Tech Stack**
+
 React.js
 React Router DOM
 JavaScript (ES6+)
